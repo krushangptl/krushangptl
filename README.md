@@ -9,7 +9,7 @@ Hello, This is Krushang Dharmeshkumar Patel.
 
 ### Fact
 
-- I use Vim, btw.
+- I use Vim/Neovim(same thing), btw.
 - I love Linux Environment, btw.
 - I love to invest time to try something new that i never try before.
 
@@ -17,7 +17,7 @@ Hello, This is Krushang Dharmeshkumar Patel.
 
 - **Programming Language** : Go language
 - **Operating System** : Linux(Ubuntu), Windows
-- **Version Control** : Git, Github
+- **Version Control** : Git, GitHub
 - **Editor/IDE** : Neovim (with _epic_ configuration), Vim (minimal yet powerful configuration)
 - **Electronics** : Digital Design, HDL (Verilog & VHDL)
 
