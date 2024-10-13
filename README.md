@@ -13,6 +13,10 @@ Hello, This is Krushang Dharmeshkumar Patel.
 - I love Linux Environment, btw.
 - I love to invest time to try something new that i never try before.
 
+## About My Journey
+
+- Please checkout **[Journey](https://github.com/krushangptl/journey/)**
+
 ## Skill & Tools
 
 - **Programming Language** : Go language
