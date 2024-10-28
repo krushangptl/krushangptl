@@ -19,7 +19,7 @@ Hello, This is Krushang Dharmeshkumar Patel.
 
 ## Skill & Tools
 
-- **Programming Language** : Go language
+- **Programming Language** : -
 - **Operating System** : Linux(Ubuntu), Windows
 - **Version Control** : Git, GitHub
 - **Editor/IDE** : Neovim (with _epic_ configuration), Vim (minimal yet powerful configuration)
