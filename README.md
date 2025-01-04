@@ -5,7 +5,6 @@ Hello, This is Krushang Dharmeshkumar Patel.
 ## About Me
 
 - I am a **3rd-year** engineering student at the **Indian Institute of Information Technology Surat**, in **Electronics and Communication Department**.
-- I am on a never-ending journey **"The World of Hopes!"**
 
 ### Fact
 
