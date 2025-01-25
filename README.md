@@ -9,6 +9,7 @@
 - Indian Institute of Information Technology, Surat
 - B.Tech: Electronics and Communication Engineering
 - Dec 2021 to Present
+- SGPA: 9.23 (5th Sem)
 - CGPA: 7.94
 
 ### Fact
