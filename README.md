@@ -27,3 +27,41 @@ December 2021 to Present
 CGPA: 7.94
 
 > Thought I was building my resume, ended up building character instead.
+
+## Skills
+
+### Programming Languages
+
+|                                          C                                           |                                           Go                                            |                                               Python                                                |
+| :----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) | ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) |
+
+### Web Development
+
+|                                              HTML                                               |                                             CSS                                              |                                               JavaScript                                                |                                               Python                                                |                                               SQLite                                                |
+| :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) |
+
+### Tools & Environments
+
+#### Operating Systems
+
+- Ubuntu Linux
+- Windows 10/11
+
+#### Editors
+
+- Neovim (Astrovim / custom config)
+- Vim (for ASM development)
+
+#### Version Control
+
+- Git & GitHub
+
+### Electronics & Low-Level
+
+|                                               VHDL                                               |                                                Verilog                                                 |                                ARM Assembly                                |
+| :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| ![VHDL](https://img.shields.io/badge/VHDL-%23A67B5B.svg?style=flat&logo=verilog&logoColor=white) | ![Verilog](https://img.shields.io/badge/Verilog-%23b6b6b6.svg?style=flat&logo=verilog&logoColor=black) | ![ARM](https://img.shields.io/badge/ARM-Assembly-%230097C4.svg?style=flat) |
+
+---
