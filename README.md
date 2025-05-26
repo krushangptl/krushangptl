@@ -65,3 +65,33 @@ CGPA: 7.94
 | ![VHDL](https://img.shields.io/badge/VHDL-%23A67B5B.svg?style=flat&logo=verilog&logoColor=white) | ![Verilog](https://img.shields.io/badge/Verilog-%23b6b6b6.svg?style=flat&logo=verilog&logoColor=black) | ![ARM](https://img.shields.io/badge/ARM-Assembly-%230097C4.svg?style=flat) |
 
 ---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krushangptl&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushangptl&layout=compact&langs_count=6&theme=catppuccin_mocha&hide_border=true"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushangptl&theme=catppuccin_mocha&hide_border=true" />
+</div>
+
+---
+
+## Contact Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krushang4201@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krushang-d-patel/)
+[![X](https://img.shields.io/badge/X-%2315181F.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/krushangdptl)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/krushangptl)
+
+</div>
+
+---
+
+<div align="center">
+🐧 "In terminals we trust, in vim we code, in Linux we believe."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlignY=65&desc=Thanks%20for%20visiting%20my%20profile&descAlignY=51&descAlign=center"/>
+</div>
