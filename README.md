@@ -8,11 +8,11 @@
 
 ## About Me
 
-Hello, This is **Krushang Patel**, 4th year B.Tech student in **Electronics and Communication Engineering**.
+Hello, I’m **Krushang Patel**, a **4th-year B.Tech** student in _Electronics and Communication Engineering_.
 
-I am **_Self-taught Engineer_** Love to working with **Linux, C and Go** to diving deep into how things work under the hood.
+I am a self-taught engineer who loves working with Linux, C, and Go, diving deep into how things work under the hood.
 
-I am on **Journey to do things that I love the most!**
+I’m on a journey to pursue what I love the most!
 
 ---
 
