@@ -24,7 +24,7 @@ _Bachelor of Technology in Electronics and Communication Engineering_
 
 December 2021 to Present
 
-CGPA: 7.94
+CGPA: 8.20
 
 > Thought I was building my resume, ended up building character instead.
 
