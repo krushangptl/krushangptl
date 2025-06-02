@@ -66,18 +66,6 @@ CGPA: 8.21
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krushangptl&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushangptl&layout=compact&langs_count=6&theme=catppuccin_mocha&hide_border=true"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushangptl&theme=catppuccin_mocha&hide_border=true" />
-</div>
-
----
-
 ## Contact Me
 
 <div align="center">
