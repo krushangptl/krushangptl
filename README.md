@@ -80,6 +80,7 @@ CGPA: 8.21
 ---
 
 <div align="center">
-🐧 "In terminals we trust, in vim we code, in Linux we believe."
+“I can do hard things, I can do whatever I want to, what I need is Time and Momentum.”
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlignY=65&desc=Thanks%20for%20visiting%20my%20profile&descAlignY=51&descAlign=center"/>
+
 </div>
