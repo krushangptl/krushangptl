@@ -32,9 +32,9 @@ CGPA: 8.21
 
 ### Programming Languages
 
-|                                               Python                                                |                                           Go                                            |
-| :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-| ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) |
+|                                          C                                           |                                           Go                                            |                                               Python                                                |
+| :----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) | ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) |
 
 ### Web Development
 
