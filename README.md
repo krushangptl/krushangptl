@@ -8,11 +8,11 @@
 
 ## About Me
 
-Hello, I’m **Krushang Patel**, a **4th-year B.Tech** student in _Electronics and Communication Engineering_.
+Hello, I'm **Krushang Patel**, a **4th-year B.Tech** student in _Electronics and Communication Engineering_.
 
-I am a self-taught engineer who loves working with Linux, C, and Go, diving deep into how things work under the hood.
+I am a self-taught engineer who loves working with **Linux**, **Python**, and **Go**, diving deep into how things work under the hood. My passion lies in **Digital Design**, **RTL coding**, and building robust hardware descriptions that bridge the gap between software and silicon.
 
-I’m on a journey to pursue what I love the most!
+I'm on a journey to pursue what I love the most!
 
 ---
 
@@ -30,11 +30,16 @@ CGPA: 8.21
 
 ## Skills
 
+### Electronics & Low-Level
+
+|                                               VHDL                                               |                                                Verilog                                                 |                                SystemVerilog                                 |                                ARM Assembly                                |
+| :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| ![VHDL](https://img.shields.io/badge/VHDL-%23A67B5B.svg?style=flat&logo=verilog&logoColor=white) | ![Verilog](https://img.shields.io/badge/Verilog-%23b6b6b6.svg?style=flat&logo=verilog&logoColor=black) | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23DAA520.svg?style=flat) | ![ARM](https://img.shields.io/badge/ARM-Assembly-%230097C4.svg?style=flat) |
 ### Programming Languages
 
-|                                               Python                                                |                                           Go                                            |
-| :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-| ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) |
+|                                               Python                                                |                                           Go                                            |                                               Bash                                               |
+| :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+| ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white) |
 
 ### Web Development
 
@@ -42,28 +47,13 @@ CGPA: 8.21
 | :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
 | ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) |
 
-### Tools & Environments
+### Tools & Technologies
 
-#### Operating Systems
-
-- Ubuntu Linux
-- Windows 10
-
-#### Editors
-
-- VIM/NeoVIM
-
-#### Version Control
-
-- Git & GitHub
-
-### Electronics & Low-Level
-
-|                                               VHDL                                               |                                                Verilog                                                 |                                ARM Assembly                                |
-| :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| ![VHDL](https://img.shields.io/badge/VHDL-%23A67B5B.svg?style=flat&logo=verilog&logoColor=white) | ![Verilog](https://img.shields.io/badge/Verilog-%23b6b6b6.svg?style=flat&logo=verilog&logoColor=black) | ![ARM](https://img.shields.io/badge/ARM-Assembly-%230097C4.svg?style=flat) |
-
+|                                              Linux                                               |                                             Git                                              |                                               Vim/Neovim                                                |                                               GTKWave                                                |                                               LTspice                                                |
+| :----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) | ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=flat&logo=vim&logoColor=white) | ![GTKWave](https://img.shields.io/badge/GTKWave-%234B8BBE.svg?style=flat) | ![LTspice](https://img.shields.io/badge/LTspice-%23900020.svg?style=flat) |
 ---
+
 
 ## Contact Me
 
