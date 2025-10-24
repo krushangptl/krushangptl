@@ -30,15 +30,10 @@ CGPA: 8.21
 
 ## Skills
 
-### Electronics & Low-Level
-
-|                                               VHDL                                               |                                                Verilog                                                 |                                SystemVerilog                                 |                                ARM Assembly                                |
-| :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| ![VHDL](https://img.shields.io/badge/VHDL-%23A67B5B.svg?style=flat&logo=verilog&logoColor=white) | ![Verilog](https://img.shields.io/badge/Verilog-%23b6b6b6.svg?style=flat&logo=verilog&logoColor=black) | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23DAA520.svg?style=flat) | ![ARM](https://img.shields.io/badge/ARM-Assembly-%230097C4.svg?style=flat) |
 ### Programming Languages
 
-|                                               Python                                                |                                           Go                                            |                                               Bash                                               |
-| :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+|                                               Python                                                |                                           Go                                            |                                               Bash                                                |
+| :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 | ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white) |
 
 ### Web Development
@@ -49,11 +44,17 @@ CGPA: 8.21
 
 ### Tools & Technologies
 
-|                                              Linux                                               |                                             Git                                              |                                               Vim/Neovim                                                |                                               GTKWave                                                |                                               LTspice                                                |
-| :----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+|                                              Linux                                               |                                            Git                                             |                                         Vim/Neovim                                         |                                  GTKWave                                  |                                  LTspice                                  |
+| :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
 | ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) | ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=flat&logo=vim&logoColor=white) | ![GTKWave](https://img.shields.io/badge/GTKWave-%234B8BBE.svg?style=flat) | ![LTspice](https://img.shields.io/badge/LTspice-%23900020.svg?style=flat) |
+
 ---
 
+### Electronics & Low-Level
+
+|                                               VHDL                                               |                                                Verilog                                                 |                                     SystemVerilog                                     |                                ARM Assembly                                |
+| :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| ![VHDL](https://img.shields.io/badge/VHDL-%23A67B5B.svg?style=flat&logo=verilog&logoColor=white) | ![Verilog](https://img.shields.io/badge/Verilog-%23b6b6b6.svg?style=flat&logo=verilog&logoColor=black) | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23DAA520.svg?style=flat) | ![ARM](https://img.shields.io/badge/ARM-Assembly-%230097C4.svg?style=flat) |
 
 ## Contact Me
 
