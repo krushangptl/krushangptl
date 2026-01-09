@@ -4,7 +4,7 @@
 
 ---
 
-#### Krushang Patel
+### Krushang Patel
 
 Just a guy who loves hanging out in the terminal, making Linux do whatever I want, 
 and figuring out how systems tick from the inside. 
