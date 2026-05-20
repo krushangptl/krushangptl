@@ -1,27 +1,18 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF">
-</div>
-
----
-
 ### Krushang Patel
 
-Just a guy who loves hanging out in the terminal, making Linux do whatever I want, 
-and figuring out how systems tick from the inside. 
-Obsessed with code, scripts, and anything that runs close to the metal.
+Just a random person on internet who loves exploring Linux for fun, trying to identify **skill issue** and trying to build **sys** for **life**.
 
 **Fun Fact**
 
-- Explore Ubuntu and now having fun breaking and fixing **Arch btw!**
-- Alacritty + Tmux + **Neovim** = my natural habita (yup, I escape with `q!` in my head)
-- Python for scripting, diving deep into **C** and **Go** on the long journey ahead
-- Chronic **skill issue** sufferer, but grinding every day
+- Explore Ubuntu for fun and now Arch btw!
+- What the hell is ricing? neovim + tmux enough for me (yup, i know how to exit vim)
+- What the hell is **skill issue** anyway? still figuring out ...
 - Here to learn, build and connect with people who get it
 
 **Where to find me ???**
 
 - **GitHub**: You're literally staring at it right now!
-- **X/Twitter**: [krushangdptl](https://x.com/krushangdptl) (come roast my takes)
+- **X/Twitter**: [krushangdptl](https://x.com/krushang_ptl) (come roast my takes)
 - **Discord**: [krushangptl](https://discordapp.com/users/krushangptl) (hit me if you wanna suffer skill issues together)
 - **LinkedIn**: [krushang-d-patel](www.linkedin.com/in/krushang-d-patel) (yup, exist but let's be honest, I'd rather be here)
 
