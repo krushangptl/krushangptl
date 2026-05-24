@@ -19,4 +19,4 @@ Just a random person on internet who loves exploring Linux for fun, trying to id
 Feel free to star, fork or roast my code.
 Always drop for chat.
 
-Keep hacking!
+Keep hacking! And Enjoy The Journey!
